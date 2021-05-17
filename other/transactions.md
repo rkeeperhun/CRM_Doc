@@ -12,3 +12,7 @@
 | External_Date | date | external date of the operation, for example, the date of the work shift |
 
 Below are 3 parameters by which you can fully identify an external operation. Filling in the parameter is mandatory when conducting transactions, in the case of using return operations in the system. That is, the combination of these parameters must uniquely identify the returned operation (in this case, External_ID is required).
+
+## Add new transaction
+
+WIP...
