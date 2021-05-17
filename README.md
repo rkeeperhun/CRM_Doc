@@ -52,3 +52,4 @@ Holders are the users of the CRM system, the clients of the vendor. The Holders 
 
 - [Account](other/account.md)
 - [Transactions](other/transactions.md)
+- [Coupons](other/coupons.md)
