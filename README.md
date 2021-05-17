@@ -42,6 +42,14 @@ The server can be located at the vendor's own location as well.
 **Example:**
 `https://ucs.hu/9999`
 
-## Holder actions
+## Holders & Holder actions
+
+Holders are the users of the CRM system, the clients of the vendor. The Holders are the core items of the CRM system, almost all other data objects are bound to a Holder. Data objects like addresses, contact info, accounts.
 
 [Holder actions](holder_actions.md)
+
+## Other items
+
+- [Account](other/account.md)
+- [Transactions](other/transactions.md)
+- [Coupons](other/coupons.md)
