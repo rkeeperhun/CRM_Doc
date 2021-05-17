@@ -44,3 +44,4 @@ The server can be located at the vendor's own location as well.
 
 ## Holder actions
 
+[Holder actions](holder_actions.md)
